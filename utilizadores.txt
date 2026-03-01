@@ -1,0 +1,6 @@
+Estudante;Engenharia Informática;POLO_II;2024201876
+Funcionario Docente;FCTUC DMUC;2004;2004176543
+Funcionario Não Docente;Bar;1980;1980567812
+Funcionario Docente;FMUC FFUC;2012;2012564387
+Estudante;Engenharia Civíl;POLO_II;2020980431
+Funcionario Não Docente;Limpezas;1998;1998764354
